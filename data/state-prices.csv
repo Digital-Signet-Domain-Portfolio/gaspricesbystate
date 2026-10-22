@@ -1,0 +1,52 @@
+state,abbr,slug,padd,regular_price,regular_basis,regular_eia_area,regular_series,diesel_price,diesel_basis,diesel_eia_area,diesel_series,survey_week
+Connecticut,CT,connecticut,1,4.249,region,New England (PADD 1A),EMM_EPMR_PTE_R1X_DPG,6.47,region,New England (PADD 1A),EMD_EPD2D_PTE_R1X_DPG,2026-10-19
+Maine,ME,maine,1,4.249,region,New England (PADD 1A),EMM_EPMR_PTE_R1X_DPG,6.47,region,New England (PADD 1A),EMD_EPD2D_PTE_R1X_DPG,2026-10-19
+Massachusetts,MA,massachusetts,1,4.202,state,Massachusetts,EMM_EPMR_PTE_SMA_DPG,6.47,region,New England (PADD 1A),EMD_EPD2D_PTE_R1X_DPG,2026-10-19
+New Hampshire,NH,new-hampshire,1,4.249,region,New England (PADD 1A),EMM_EPMR_PTE_R1X_DPG,6.47,region,New England (PADD 1A),EMD_EPD2D_PTE_R1X_DPG,2026-10-19
+Rhode Island,RI,rhode-island,1,4.249,region,New England (PADD 1A),EMM_EPMR_PTE_R1X_DPG,6.47,region,New England (PADD 1A),EMD_EPD2D_PTE_R1X_DPG,2026-10-19
+Vermont,VT,vermont,1,4.249,region,New England (PADD 1A),EMM_EPMR_PTE_R1X_DPG,6.47,region,New England (PADD 1A),EMD_EPD2D_PTE_R1X_DPG,2026-10-19
+Delaware,DE,delaware,1,4.312,region,Central Atlantic (PADD 1B),EMM_EPMR_PTE_R1Y_DPG,6.508,region,Central Atlantic (PADD 1B),EMD_EPD2D_PTE_R1Y_DPG,2026-10-19
+District of Columbia,DC,district-of-columbia,1,4.312,region,Central Atlantic (PADD 1B),EMM_EPMR_PTE_R1Y_DPG,6.508,region,Central Atlantic (PADD 1B),EMD_EPD2D_PTE_R1Y_DPG,2026-10-19
+Maryland,MD,maryland,1,4.312,region,Central Atlantic (PADD 1B),EMM_EPMR_PTE_R1Y_DPG,6.508,region,Central Atlantic (PADD 1B),EMD_EPD2D_PTE_R1Y_DPG,2026-10-19
+New Jersey,NJ,new-jersey,1,4.312,region,Central Atlantic (PADD 1B),EMM_EPMR_PTE_R1Y_DPG,6.508,region,Central Atlantic (PADD 1B),EMD_EPD2D_PTE_R1Y_DPG,2026-10-19
+New York,NY,new-york,1,4.313,state,New York,EMM_EPMR_PTE_SNY_DPG,6.508,region,Central Atlantic (PADD 1B),EMD_EPD2D_PTE_R1Y_DPG,2026-10-19
+Pennsylvania,PA,pennsylvania,1,4.312,region,Central Atlantic (PADD 1B),EMM_EPMR_PTE_R1Y_DPG,6.508,region,Central Atlantic (PADD 1B),EMD_EPD2D_PTE_R1Y_DPG,2026-10-19
+Florida,FL,florida,1,3.981,state,Florida,EMM_EPMR_PTE_SFL_DPG,5.74,region,Lower Atlantic (PADD 1C),EMD_EPD2D_PTE_R1Z_DPG,2026-10-19
+Georgia,GA,georgia,1,3.86,region,Lower Atlantic (PADD 1C),EMM_EPMR_PTE_R1Z_DPG,5.74,region,Lower Atlantic (PADD 1C),EMD_EPD2D_PTE_R1Z_DPG,2026-10-19
+North Carolina,NC,north-carolina,1,3.86,region,Lower Atlantic (PADD 1C),EMM_EPMR_PTE_R1Z_DPG,5.74,region,Lower Atlantic (PADD 1C),EMD_EPD2D_PTE_R1Z_DPG,2026-10-19
+South Carolina,SC,south-carolina,1,3.86,region,Lower Atlantic (PADD 1C),EMM_EPMR_PTE_R1Z_DPG,5.74,region,Lower Atlantic (PADD 1C),EMD_EPD2D_PTE_R1Z_DPG,2026-10-19
+Virginia,VA,virginia,1,3.86,region,Lower Atlantic (PADD 1C),EMM_EPMR_PTE_R1Z_DPG,5.74,region,Lower Atlantic (PADD 1C),EMD_EPD2D_PTE_R1Z_DPG,2026-10-19
+West Virginia,WV,west-virginia,1,3.86,region,Lower Atlantic (PADD 1C),EMM_EPMR_PTE_R1Z_DPG,5.74,region,Lower Atlantic (PADD 1C),EMD_EPD2D_PTE_R1Z_DPG,2026-10-19
+Illinois,IL,illinois,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Indiana,IN,indiana,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Iowa,IA,iowa,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Kansas,KS,kansas,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Kentucky,KY,kentucky,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Michigan,MI,michigan,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Minnesota,MN,minnesota,2,4.18,state,Minnesota,EMM_EPMR_PTE_SMN_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Missouri,MO,missouri,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Nebraska,NE,nebraska,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+North Dakota,ND,north-dakota,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Ohio,OH,ohio,2,4.049,state,Ohio,EMM_EPMR_PTE_SOH_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Oklahoma,OK,oklahoma,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+South Dakota,SD,south-dakota,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Tennessee,TN,tennessee,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Wisconsin,WI,wisconsin,2,4.145,region,Midwest (PADD 2),EMM_EPMR_PTE_R20_DPG,6.352,region,Midwest (PADD 2),EMD_EPD2D_PTE_R20_DPG,2026-10-19
+Alabama,AL,alabama,3,3.784,region,Gulf Coast (PADD 3),EMM_EPMR_PTE_R30_DPG,5.903,region,Gulf Coast (PADD 3),EMD_EPD2D_PTE_R30_DPG,2026-10-19
+Arkansas,AR,arkansas,3,3.784,region,Gulf Coast (PADD 3),EMM_EPMR_PTE_R30_DPG,5.903,region,Gulf Coast (PADD 3),EMD_EPD2D_PTE_R30_DPG,2026-10-19
+Louisiana,LA,louisiana,3,3.784,region,Gulf Coast (PADD 3),EMM_EPMR_PTE_R30_DPG,5.903,region,Gulf Coast (PADD 3),EMD_EPD2D_PTE_R30_DPG,2026-10-19
+Mississippi,MS,mississippi,3,3.784,region,Gulf Coast (PADD 3),EMM_EPMR_PTE_R30_DPG,5.903,region,Gulf Coast (PADD 3),EMD_EPD2D_PTE_R30_DPG,2026-10-19
+New Mexico,NM,new-mexico,3,3.784,region,Gulf Coast (PADD 3),EMM_EPMR_PTE_R30_DPG,5.903,region,Gulf Coast (PADD 3),EMD_EPD2D_PTE_R30_DPG,2026-10-19
+Texas,TX,texas,3,3.704,state,Texas,EMM_EPMR_PTE_STX_DPG,5.903,region,Gulf Coast (PADD 3),EMD_EPD2D_PTE_R30_DPG,2026-10-19
+Colorado,CO,colorado,4,4.274,state,Colorado,EMM_EPMR_PTE_SCO_DPG,6.422,region,Rocky Mountain (PADD 4),EMD_EPD2D_PTE_R40_DPG,2026-10-19
+Idaho,ID,idaho,4,4.468,region,Rocky Mountain (PADD 4),EMM_EPMR_PTE_R40_DPG,6.422,region,Rocky Mountain (PADD 4),EMD_EPD2D_PTE_R40_DPG,2026-10-19
+Montana,MT,montana,4,4.468,region,Rocky Mountain (PADD 4),EMM_EPMR_PTE_R40_DPG,6.422,region,Rocky Mountain (PADD 4),EMD_EPD2D_PTE_R40_DPG,2026-10-19
+Utah,UT,utah,4,4.468,region,Rocky Mountain (PADD 4),EMM_EPMR_PTE_R40_DPG,6.422,region,Rocky Mountain (PADD 4),EMD_EPD2D_PTE_R40_DPG,2026-10-19
+Wyoming,WY,wyoming,4,4.468,region,Rocky Mountain (PADD 4),EMM_EPMR_PTE_R40_DPG,6.422,region,Rocky Mountain (PADD 4),EMD_EPD2D_PTE_R40_DPG,2026-10-19
+Alaska,AK,alaska,5,5.007,region,West Coast less California,EMM_EPMR_PTE_R5XCA_DPG,6.659,region,West Coast less California,EMD_EPD2D_PTE_R5XCA_DPG,2026-10-19
+Arizona,AZ,arizona,5,5.007,region,West Coast less California,EMM_EPMR_PTE_R5XCA_DPG,6.659,region,West Coast less California,EMD_EPD2D_PTE_R5XCA_DPG,2026-10-19
+California,CA,california,5,6.031,state,California,EMM_EPMR_PTE_SCA_DPG,8.242,state,California,EMD_EPD2D_PTE_SCA_DPG,2026-10-19
+Hawaii,HI,hawaii,5,5.007,region,West Coast less California,EMM_EPMR_PTE_R5XCA_DPG,6.659,region,West Coast less California,EMD_EPD2D_PTE_R5XCA_DPG,2026-10-19
+Nevada,NV,nevada,5,5.007,region,West Coast less California,EMM_EPMR_PTE_R5XCA_DPG,6.659,region,West Coast less California,EMD_EPD2D_PTE_R5XCA_DPG,2026-10-19
+Oregon,OR,oregon,5,5.007,region,West Coast less California,EMM_EPMR_PTE_R5XCA_DPG,6.659,region,West Coast less California,EMD_EPD2D_PTE_R5XCA_DPG,2026-10-19
+Washington,WA,washington,5,5.332,state,Washington,EMM_EPMR_PTE_SWA_DPG,6.659,region,West Coast less California,EMD_EPD2D_PTE_R5XCA_DPG,2026-10-19
