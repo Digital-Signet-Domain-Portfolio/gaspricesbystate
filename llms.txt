@@ -1,0 +1,92 @@
+# Gas prices by state - EIA weekly retail survey | gaspricesbystate.com
+
+> US regular and on-highway diesel retail prices from the EIA weekly survey, mapped to every state with the basis disclosed.
+
+## Pages
+
+- [Home](https://gaspricesbystate.com): US regular and on-highway diesel retail prices from the EIA weekly survey, mapped to every state with the basis disclosed.
+- [About gaspricesbystate.com](https://gaspricesbystate.com/about/): About gaspricesbystate.com: an independent, EIA-sourced reference for US gasoline and diesel prices, with the survey coverage limits stated on every page. Built by Oliver Wakefield-Smith / Digital Signet.
+- [Gas prices California vs Texas - EIA weekly survey](https://gaspricesbystate.com/compare/california-vs-texas/)
+- [Nevada vs Arizona gas prices - what the EIA survey shows](https://gaspricesbystate.com/compare/nevada-vs-arizona/)
+- [NJ vs PA gas prices - what the EIA survey shows](https://gaspricesbystate.com/compare/new-jersey-vs-pennsylvania/)
+- [Oregon vs Idaho gas prices - EIA district figures](https://gaspricesbystate.com/compare/oregon-vs-idaho/)
+- [How is gas price calculated - crude share today](https://gaspricesbystate.com/cost-stack/crude-share/): What share of the US pump price is crude oil today. The five named slices: crude, refining, distribution, federal tax, state tax. EIA-sourced.
+- [Gas station markup and retail margin today](https://gaspricesbystate.com/cost-stack/distribution-and-marketing/): What gas stations actually earn per gallon, how the wholesale-to-retail markup typically runs, and why convenience-store revenue subsidises fuel pricing.
+- [Federal gas tax - 18.4 cents per gallon explained](https://gaspricesbystate.com/cost-stack/federal-excise-18-4-cents/): The federal gasoline excise of 18.4 cents per gallon (plus 0.1 LUST) has not been raised since October 1993. The diesel rate is 24.4 cents. Where the money goes.
+- [Refining margin gas - crack spread today](https://gaspricesbystate.com/cost-stack/refining-margin/): What a crack spread is and how it shows up in your pump price. Today's refining margin and why PADD 5 (West Coast) runs above PADD 3 (Gulf).
+- [State gas tax by state - all 50 ranked (2026)](https://gaspricesbystate.com/cost-stack/state-excise-tax/): State excise tax on gasoline for all 50 US states plus DC, ranked. From Alaska's 8.95 cents to California's 63.4 cents. Sourced to API and Tax Foundation.
+- [Gas sales tax and environmental fees by state](https://gaspricesbystate.com/cost-stack/state-sales-and-environmental-fees/): Which states apply sales tax on top of gasoline and which add environmental fees (LUST, CARB cap-and-trade, LCFS, WA Climate Commitment Act).
+- [Download US gas and diesel prices CSV / JSON](https://gaspricesbystate.com/data/): Machine-readable CSV and JSON of the EIA weekly retail gasoline and diesel prices mapped to all 50 states plus DC, with the basis and series id on every row. Public domain source.
+- [Diesel prices by EIA region](https://gaspricesbystate.com/diesel/)
+- [Off-road dyed diesel price today](https://gaspricesbystate.com/diesel/farm-and-off-road/): What dyed (red) diesel costs today versus on-highway ULSD, who can buy it, and the penalties for using it on a public road. IRS and EPA sourced.
+- [Heating oil vs diesel price today](https://gaspricesbystate.com/diesel/heating-oil-cross-reference/): Why No. 2 distillate (heating oil) and ULSD diesel track each other. State-by-state Northeast heating-oil prices alongside diesel.
+- [EIA diesel survey methodology](https://gaspricesbystate.com/diesel/methodology/): How the EIA Weekly On-Highway Diesel Fuel Price is collected: 8 regions, ~360 stations, Monday morning survey, Monday afternoon release.
+- [Diesel vs gasoline price spread today, all 50 states](https://gaspricesbystate.com/diesel/regular-vs-diesel-spread/)
+- [Cheapest diesel by trucking corridor today](https://gaspricesbystate.com/diesel/trucking-corridors/): End-to-end diesel pricing along the five main US trucking corridors. Where to fill up and where to wait.
+- [Gas prices by state FAQ](https://gaspricesbystate.com/faq/): 12 questions about US gas prices: which states EIA actually surveys, what RBOB is, why summer is higher, why California is expensive, the federal gas tax, weekly release timing.
+- [Gas price forecast 2026 and 2027 - EIA Short-Term Energy Outlook](https://gaspricesbystate.com/history/2026-outlook/)
+- [Highest gas price ever - all-time record](https://gaspricesbystate.com/history/highest-and-lowest-on-record/): The highest US national average regular gasoline price in the EIA weekly retail survey is $5.006 per gallon, week of 2022-06-13. The lowest is $0.907, week of 1999-02-22. Nominal dollars.
+- [Historical US gas prices by year - EIA annual averages](https://gaspricesbystate.com/history/national-average-by-year/): The EIA published annual US national average regular gasoline price for every year the agency reports one, plus the current year to date. Nominal dollars.
+- [Why gas prices change weekly](https://gaspricesbystate.com/history/why-prices-change-weekly/): Why retail gasoline prices change on a roughly weekly cadence. The EIA Monday survey, crude lag, RBOB-to-CARB transition, and 'rockets and feathers' asymmetry.
+- [Site methodology - gaspricesbystate.com](https://gaspricesbystate.com/methodology/): How gaspricesbystate.com sources every published figure: one federal dataset, the EIA Gasoline and Diesel Fuel Update, with the series id on the page and the coverage gaps stated rather than filled in.
+- [Gas prices in Alabama](https://gaspricesbystate.com/state/alabama/)
+- [Gas prices in Alaska](https://gaspricesbystate.com/state/alaska/)
+- [Gas prices in Arizona](https://gaspricesbystate.com/state/arizona/)
+- [Gas prices in Arkansas](https://gaspricesbystate.com/state/arkansas/)
+- [Gas prices in California today](https://gaspricesbystate.com/state/california/)
+- [Gas prices in Colorado today](https://gaspricesbystate.com/state/colorado/)
+- [Gas prices in Connecticut](https://gaspricesbystate.com/state/connecticut/)
+- [Gas prices in Delaware](https://gaspricesbystate.com/state/delaware/)
+- [Gas prices in District of Columbia](https://gaspricesbystate.com/state/district-of-columbia/)
+- [Gas prices in Florida today](https://gaspricesbystate.com/state/florida/)
+- [Gas prices in Georgia](https://gaspricesbystate.com/state/georgia/)
+- [Gas prices in Hawaii](https://gaspricesbystate.com/state/hawaii/)
+- [Gas prices in Idaho](https://gaspricesbystate.com/state/idaho/)
+- [Gas prices in Illinois](https://gaspricesbystate.com/state/illinois/)
+- [Gas prices in Indiana](https://gaspricesbystate.com/state/indiana/)
+- [Gas prices in Iowa](https://gaspricesbystate.com/state/iowa/)
+- [Gas prices in Kansas](https://gaspricesbystate.com/state/kansas/)
+- [Gas prices in Kentucky](https://gaspricesbystate.com/state/kentucky/)
+- [Gas prices in Louisiana](https://gaspricesbystate.com/state/louisiana/)
+- [Gas prices in Maine](https://gaspricesbystate.com/state/maine/)
+- [Gas prices in Maryland](https://gaspricesbystate.com/state/maryland/)
+- [Gas prices in Massachusetts today](https://gaspricesbystate.com/state/massachusetts/)
+- [Gas prices in Michigan](https://gaspricesbystate.com/state/michigan/)
+- [Gas prices in Minnesota today](https://gaspricesbystate.com/state/minnesota/)
+- [Gas prices in Mississippi](https://gaspricesbystate.com/state/mississippi/)
+- [Gas prices in Missouri](https://gaspricesbystate.com/state/missouri/)
+- [Gas prices in Montana](https://gaspricesbystate.com/state/montana/)
+- [National average gas price today](https://gaspricesbystate.com/state/national-average/)
+- [Gas prices in Nebraska](https://gaspricesbystate.com/state/nebraska/)
+- [Gas prices in Nevada](https://gaspricesbystate.com/state/nevada/)
+- [Gas prices in New Hampshire](https://gaspricesbystate.com/state/new-hampshire/)
+- [Gas prices in New Jersey](https://gaspricesbystate.com/state/new-jersey/)
+- [Gas prices in New Mexico](https://gaspricesbystate.com/state/new-mexico/)
+- [Gas prices in New York today](https://gaspricesbystate.com/state/new-york/)
+- [Gas prices in North Carolina](https://gaspricesbystate.com/state/north-carolina/)
+- [Gas prices in North Dakota](https://gaspricesbystate.com/state/north-dakota/)
+- [Gas prices in Ohio today](https://gaspricesbystate.com/state/ohio/)
+- [Gas prices in Oklahoma](https://gaspricesbystate.com/state/oklahoma/)
+- [Gas prices in Oregon](https://gaspricesbystate.com/state/oregon/)
+- [Gas prices in Pennsylvania](https://gaspricesbystate.com/state/pennsylvania/)
+- [Gas prices in Rhode Island](https://gaspricesbystate.com/state/rhode-island/)
+- [Gas prices in South Carolina](https://gaspricesbystate.com/state/south-carolina/)
+- [Gas prices in South Dakota](https://gaspricesbystate.com/state/south-dakota/)
+- [Gas prices in Tennessee](https://gaspricesbystate.com/state/tennessee/)
+- [Gas prices in Texas today](https://gaspricesbystate.com/state/texas/)
+- [Gas prices in Utah](https://gaspricesbystate.com/state/utah/)
+- [Gas prices in Vermont](https://gaspricesbystate.com/state/vermont/)
+- [Gas prices in Virginia](https://gaspricesbystate.com/state/virginia/)
+- [Gas prices in Washington today](https://gaspricesbystate.com/state/washington/)
+- [Gas prices in West Virginia](https://gaspricesbystate.com/state/west-virginia/)
+- [Gas prices in Wisconsin](https://gaspricesbystate.com/state/wisconsin/)
+- [Gas prices in Wyoming](https://gaspricesbystate.com/state/wyoming/)
+- [Gas prices border states today - per-tank savings](https://gaspricesbystate.com/tools/border-comparator/): Today's per-tank savings for crossing into a cheaper neighbouring state. Round-trip break-even mileage included. All US state pairs.
+- [Gas vs EV cost by state - eGallon equivalent](https://gaspricesbystate.com/tools/ev-breakeven/): $/eGallon equivalent for all 50 states. At today's gas and residential electric rates, where does an EV win and where does it break even with gasoline?
+- [Fleet fuel card reconciliation tool](https://gaspricesbystate.com/tools/fleet-reconciler/): Compare WEX, Comdata, EFS fuel-card receipts to today's state diesel averages. Flag drivers paying more than the EIA on-highway state mean.
+- [Cost per mile gas today by vehicle and state](https://gaspricesbystate.com/tools/per-mile/): What does it cost per mile to drive your car at today's prices? Top US vehicles ranked, plus state-by-state cost per mile for a 30 mpg car.
+- [Cost to fill a tank today by vehicle and state](https://gaspricesbystate.com/tools/tank-fill/): What a tank costs at EIA weekly retail prices. Pick a vehicle profile (compact, sedan, SUV, pickup) and a state. Rows for states EIA does not survey use the state's EIA district price and say so.
+
+---
+
+*Generated 2026-11-07 from the titles and descriptions of the built pages.*
